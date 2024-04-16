@@ -13,19 +13,15 @@ in
     ./clang.nix
     ./go.nix
     ./html.nix
-    ./java.nix
-    ./kotlin.nix
     ./markdown.nix
     ./nix.nix
     ./plantuml.nix
     ./python.nix
     ./rust.nix
     ./sclang.nix
-    ./sql.nix
     ./terraform.nix
     ./tidal.nix
     ./ts.nix
-    ./zig.nix
   ];
 
   options.vim.languages = {
